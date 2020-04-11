@@ -1,3 +1,7 @@
+This project is a web app which lets you play an evergreen game of TicTacToe with your friend.
+
+In this Project, I made use of React Hooks and React Bootstrap. All my work can been under App.js since I used React Hooks. The project was a lot of fun!!!.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
